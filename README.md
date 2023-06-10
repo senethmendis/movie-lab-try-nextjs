@@ -15,6 +15,7 @@ pnpm dev
 ## API Site and Links
 
 Add your own API key form [themoviedb.org](https://www.themoviedb.org/)
+
 [API Doc](https://developer.themoviedb.org/docs) 
 
 ##
