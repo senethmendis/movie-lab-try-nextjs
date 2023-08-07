@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![Movie-lab](https://i.pinimg.com/originals/67/0f/7a/670f7ab3cda2956e27a1fd5312630ff2.png)
+
 ## Getting Started
 
 First, run the development server:
